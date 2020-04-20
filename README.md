@@ -1,10 +1,8 @@
-# WebViewer - Electron sample
+# PDF.js Express - Electron sample
 
-[WebViewer](https://www.pdftron.com/webviewer) is a powerful JavaScript-based PDF Library that's part of the [PDFTron PDF SDK](https://www.pdftron.com). It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
+[PDF.js Express](https://pdfjs.express/) is a powerful JavaScript-based PDF Library that leverages PDF.js and adds additional features such as annotations, form support, and digitial signatures. It provides a slick out-of-the-box responsive UI that interacts with the core library to view, annotate and manipulate PDFs that can be embedded into any web project.
 
-![WebViewer UI](https://www.pdftron.com/downloads/pl/webviewer-ui.png)
-
-This repo is specifically designed for any users interested in integrating WebViewer into an Electron project.
+This repo is specifically designed for any users interested in integrating Express into an Electron project.
 
 ## Initial setup
 
@@ -13,8 +11,8 @@ Before you begin, make sure your development environment includes [Node.js](http
 ## Install
 
 ```
-git clone https://github.com/PDFTron/webviewer-electron-sample.git
-cd webviewer-electron-sample
+git clone https://github.com/pdfjs-express/pdfjs-express-electron-sample.git
+cd pdfjs-express-electron-sample
 npm install
 ```
 
@@ -30,9 +28,8 @@ Since Electron builds are platform specific, please refer to [the guides](https:
 
 ## WebViewer APIs
 
-See [API documentation](https://www.pdftron.com/documentation/web/guides/ui/apis).
+See [API documentation](https://pdfjs.express/documentation).
 
 ## License
 
 See [license](./LICENSE).
-![](https://onepixel.pdftron.com/webviewer-electron-sample)
